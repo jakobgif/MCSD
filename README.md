@@ -28,13 +28,11 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 ## Development setup
 
 IDE: STM32CubeIDE Version 1.10.1
+
 MCU: STM32L432KC on STM Nucleo-L432KC evaluation board
+
 Carrier Board: Nucleo32 Click Shield Schematic_v0.4
 
-```sh
-make install
-npm test
-```
 
 ## Task release dates
 
