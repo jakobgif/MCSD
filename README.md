@@ -1,7 +1,7 @@
 # MCSD
 > Solved tasks for FH Technikum Wien MCSD Class.
 
-![npm-image]
+![nucleo](https://www.mouser.at/images/marketingid/2019/img/168228755.png?v=030722.1114)
 
 
 ## Development setup
@@ -32,6 +32,3 @@ Distributed under the GPL-3.0 license license. See ``LICENSE`` for more informat
 1. Never hand in code that you don't understand.
 2. Just because the code works for me doesn't mean it works for you.
 3. Make sure to follow the license regualtions when distributing this code.
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://www.mouser.at/images/marketingid/2019/img/168228755.png?v=030722.1114
