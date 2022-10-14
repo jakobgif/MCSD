@@ -1,8 +1,5 @@
-# MCSD
-FH Technikum Wien MCSD Class
-
 # Product Name
-> Short blurb about what your product does.
+> Solved tasks for FH Technikum Wien MCSD Class.
 
 One to two paragraph statement about your product and what it does.
 
