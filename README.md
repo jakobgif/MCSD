@@ -17,7 +17,7 @@ Carrier Board: Nucleo32 Click Shield Schematic_v0.4 <br />
 
 ## Meta
 
-Jakob Frenzel – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Jakob Frenzel – [@Twitter](https://twitter.com/kusdei)
 
 Distributed under the GPL-3.0 license license. See ``LICENSE`` for more information.
 
