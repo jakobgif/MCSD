@@ -1,9 +1,6 @@
 # MCSD
 > Solved tasks for FH Technikum Wien MCSD Class.
 
-![nucleo](https://www.mouser.at/images/marketingid/2019/img/168228755.png?v=030722.1114)
-
-
 ## Development setup
 
 IDE: STM32CubeIDE Version 1.10.1 <br />
