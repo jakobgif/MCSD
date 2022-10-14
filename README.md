@@ -27,27 +27,20 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Development setup
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+IDE: STM32CubeIDE Version 1.10.1
+MCU: STM32L432KC on STM Nucleo-L432KC evaluation board
+Carrier Board: Nucleo32 Click Shield Schematic_v0.4
 
 ```sh
 make install
 npm test
 ```
 
-## Release History
+## Task release dates
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+* I/O Task, 
+    * Task Version STM32 HAL: 14.10.22
+    * Task Version Barebone: work in progress
 
 ## Meta
 
@@ -57,13 +50,11 @@ Distributed under the GPL-3.0 license license. See ``LICENSE`` for more informat
 
 [https://github.com/jakobgif](https://github.com/jakobgif)
 
-## Contributing
+## Disclamer
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+1. Never hand in code that you don't understand.
+2. Just because the code works for me doesn't mean it works for you.
+3. Make sure to follow the license regualtions when distributing this code.
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
