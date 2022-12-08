@@ -24,7 +24,7 @@ Distributed under the GPL-3.0 license license. See ``LICENSE`` for more informat
 [https://github.com/jakobgif](https://github.com/jakobgif)
 
 
-## Disclamer
+## Disclaimer
 
 1. Never hand in code that you don't understand.
 2. Just because the code works for me doesn't mean it works for you.
