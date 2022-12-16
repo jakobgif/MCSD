@@ -12,7 +12,10 @@ Carrier Board: Nucleo32 Click Shield Schematic_v0.4 <br />
 
 * I/O Task, 
     * Task Version STM32 HAL: 14.10.22
-    * Task Version Barebone: work in progress
+* Timer Task , 
+* ADC Task, 
+* UART Task, 
+
 
 
 ## Meta
