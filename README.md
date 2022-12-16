@@ -10,11 +10,11 @@ Carrier Board: Nucleo32 Click Shield Schematic_v0.4 <br />
 
 ## Task release dates
 
-* I/O Task, 
+* I/O Task 
     * Task Version STM32 HAL: 14.10.22
-* Timer Task , 
-* ADC Task, 
-* UART Task, 
+* Timer Task 28.11.22
+* ADC Task 29.11.22 
+* UART Task 6.12.22 
 
 
 
